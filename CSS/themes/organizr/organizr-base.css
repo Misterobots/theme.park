@@ -2,7 +2,7 @@ html {
     background: var(--main-bg-color);
 }
   body {
-      color: white;
+      color: radial-gradient(circle, #3a3a3a, #2d2d2d, #202020, #141414, #000000) center center/cover no-repeat fixed;
   }
   .panel .panel-heading .panel-title {
       color: #ffffff;
